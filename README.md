@@ -7,7 +7,7 @@ any size or shape, making it superior to all the presently available commercial 
 medium scale farming. Looking at the sales data of currently available personal farming robots in the
 market, it is evident that SAASbot is capable of securing a huge market share globally, if commercialized.
 
-
+![Part Names](https://github.com/user-attachments/assets/0d18c2ad-3fe3-49ee-805f-850d5e11f566)
 
 The whole mechanical system of SAASbot was developed from scratch in Sri Lanka, at a fraction of the cost of existing commercial robots for personal
 farming. SAASbot system consists of not only the SAASbot mobile farming robot but also a stationary
