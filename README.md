@@ -1,7 +1,6 @@
 # SAASBot Source Code
 
-`SAASBot`is a robotic platform which 
-SAASbot(Scalable Autonomous Agronomical Smart Bot), developed by the undergraduates of University of Moratuwa has the capability to perform various task related to personal-to-medium scaled farming. It provides functionalities such as planting seeds, watering and fertilizing, surveillance, automatic weed
+SAASbot(Scalable Autonomous Agronomical Smart Bot) is a robotic platform developed by the undergraduates of University of Moratuwa. It has the capability to perform various task related to personal-to-medium scaled farming. It provides functionalities such as planting seeds, watering and fertilizing, surveillance, automatic weed
 elimination with the added unique feature of scalability. The SAASbot can be used in a farming field of
 any size or shape, making it superior to all the presently available commercial robots for personal to
 medium scale farming. Looking at the sales data of currently available personal farming robots in the
